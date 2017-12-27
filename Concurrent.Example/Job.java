@@ -1,5 +1,3 @@
-package seaportprogram;
-
 /**
  * @fileName Job.java
  * @date August 12, 2017
